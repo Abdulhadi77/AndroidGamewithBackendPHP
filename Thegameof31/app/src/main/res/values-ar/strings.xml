@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name" translatable="false">The game of 31</string>
+    <string name="title_activity_level">Level Activity</string>
+
+    <!--<string name="hello_world" translatable="false">Hello world!</string>-->
+    <string name="action_settings" translatable="false"> إعدادات </string>
+    <string name="score_text">النتيجة 0</string>
+    <!--<string name="score">q</string>-->
+    <string name="your_score">نتيجتك  </string>
+    <string name="next_level">المراحل المفتوحة </string>
+    <string name="num_of_levels_win">لقت فزت </string>
+    <string name="excelent" translatable="false">رائع !</string>
+    <string name="training">تدريب</string>
+    <string name="play_online">اللعب على الإنترنت</string>
+    <string name="title_section1">صفحتك الشخصية</string>
+    <string name="title_section2">اللعب عن طريق الفيس بوك</string>
+    <string name="title_section3">اللعب عشوائياً</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="play_with_random_player">العب مع لاعب عشاوئياً</string>
+    <string name="search">ابحث</string>
+    <string name="inviteRandomPlayer">دعوة</string>
+    <string name="edit_your_informations">تعديل على معلوماتك</string>
+    <string name="edit_your_user_name">عدل اسم المستخدم</string>
+    <string name="edit_your_password">عدل كلمة المرور</string>
+    <string name="edit_your_email">عدل البريد الإلكتروني</string>
+    <string name="error_user_name">على الأقل يجب أن يكون 3 محارف</string>
+    <string name="you_lose_first_half">لقد خسرت في الشوط الأول !!</string>
+    <string name="you_lose_second_half">لقد خسرت في الشوط الثاني !!</string>
+    <string name="ok_dialog">موافق</string>
+    <string name="cancel_dialog">إلغاء الأمر</string>
+    <string name="error_password">كلمة السر يجب أن تكون بين 4 و 15 محرف</string>
+    <string name="error_email">البريد الإلكتروني غير صالح</string>
+    <string name="you_win">لقد فزت !!</string>
+    <string name="congratulations">تهانينا</string>
+    <string name="you_lose">تستطيع فعلها,حاول مرة أخرى !</string>
+    <string name="Unfor">لسوء الحظ !</string>
+    <string name="you_lose_game">لقد خسرت في هذه اللعبة !</string>
+
+    <string name="game_over">حظ أوفر</string>
+    <string name="you_win_first_half">لقد فزت في الشوط الأول !!</string>
+    <string name="final_result">النتيجة النهائية</string>
+    <string name="equalizing">تعادل !</string>
+    <string name="you_win_game">لقد فزت في هذه اللعبة !</string>
+    <string name="your_new_score">نتيجتك الجديدة هي </string>
+    <string name="authenticating">معالجة البيانات...</string>
+    <string name="login_failed">فشل بتسجيل الدخول , تأكد من الاتصال بالإنترنت ، أو قد سجلت دخول إلى هذا الحساب بواسطة جهاز آخر</string>
+    <string name="enter_user_name">أدخل اسم مستخدم</string>
+    <string name="login_success">نجاح بتسجيل الدخول</string>
+    <string name="signup_success">sign up success!!</string>
+    <string name="signup_failed">sign up failed!!</string>
+    <string name="playeing_with_other_player">يلعب مع لاعب آخر</string>
+    <string name="didnot_accept_play">لم يوافق على طلب اللعب !!</string>
+    <string name="is_escaped_from_this_game">لقد خرجت من اللعبة !!</string>
+
+    <string name="edited">تم التعديل !</string>
+    <string name="try_later_again">الرجاء المحاولة لاحقاً</string>
+    <string name="your_profile">الملف الشخصي</string>
+    <string name="play_with_facebook">اللعب عن طريق الفيس بوك</string>
+    <string name="play_randomly">اللعب عشوائياً</string>
+    <string name="wants_to_play_with_you">يريد اللعب معك </string>
+    <string name="yes_dialog">نعم</string>
+    <string name="no_dialog">لا</string>
+    <string name="search_again">ابحث مرة أخرى !</string>
+    <string name="creating_account">يتم إنشاء الحساب ...</string>
+    <string name="display_info">عرض المعلومات</string>
+    <string name="edit">تعديل</string>
+    <string name="your_email"></string>
+    <string name="your_password">كلمة المرور</string>
+    <string name="your_userName">اسم المستخدم</string>
+    <string name="userName">اسم المستخدم</string>
+    <string name="login">تسجيل دخول</string>
+    <string name="signup"> إنشاء حساب</string>
+    <string name="no_account_yet">ليس لديك حساب بعد ؟ أنشئ واحداً</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="already_member">لديك حساب ؟ قم بتسجيل دخول</string>
+    <string name="check_internet">تأكد من الاتصال بالإنترنت و أعد المحاولة </string>
+    <string name="your_score_is">نتيجتك هي </string>
+    <string name="points">نقطة </string>
+
+
+</resources>
